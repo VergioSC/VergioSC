@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/c1/34/c2/c134c246d293905c9ed09ad77c451226.gif" width="100%" alt="banner"/>
+<img src="https://i.pinimg.com/originals/ae/0a/a1/ae0aa14707e1b4bb35fe11b8f00a9956.gif" width="60%" alt="banner"/>
+
+# Hey, I'm Vergio Stevencen 👋
+### BSc (Hons) IT – Cloud Engineering @ APU
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+Student+%40+APU;Network+%26+Security+Enthusiast;Full-Stack+Web+Developer;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
