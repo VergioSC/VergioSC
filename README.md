@@ -5,7 +5,7 @@
 # Hey, I'm Vergio Stevencen 👋
 ### BSc (Hons) IT – Cloud Engineering @ APU
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+Student+%40+APU;Network+%26+Security+Enthusiast;Full-Stack+Web+Developer;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=IPsec+VPN+%7C+VLAN+%7C+OSPF+%7C+DMZ;ASP.NET+%7C+C%23+%7C+SQL+Server;Cisco+CCNA+Certified;Open+for+Internship+Jul+%E2%80%93+Nov+2026+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
