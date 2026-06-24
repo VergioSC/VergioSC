@@ -150,6 +150,11 @@ Cloud Engineering student. I build secure networks, break things to fix them, an
 
 ---
 
+> *"If you can't fly, run; if you can't run, walk; if you can't walk, crawl; but by all means keep moving."*
+> — Martin Luther King Jr.
+
+---
+
 <div align="center">
 
 `// 📍 Bukit Jalil, KL · [OPEN] Internship: Jul – Nov 2026`
