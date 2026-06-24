@@ -2,22 +2,28 @@
 
 <img src="https://i.pinimg.com/originals/ae/0a/a1/ae0aa14707e1b4bb35fe11b8f00a9956.gif" width="60%" alt="banner"/>
 
-# Hey, I'm Vergio Stevencen 👋
-### BSc (Hons) IT – Cloud Engineering @ APU
+```
+██╗   ██╗███████╗██████╗  ██████╗ ██╗ ██████╗
+██║   ██║██╔════╝██╔══██╗██╔════╝ ██║██╔═══██╗
+██║   ██║█████╗  ██████╔╝██║  ███╗██║██║   ██║
+╚██╗ ██╔╝██╔══╝  ██╔══██╗██║   ██║██║██║   ██║
+ ╚████╔╝ ███████╗██║  ██║╚██████╔╝██║╚██████╔╝
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=IPsec+VPN+%7C+VLAN+%7C+OSPF+%7C+DMZ;ASP.NET+%7C+C%23+%7C+SQL+Server;Cisco+CCNA+Certified;Open+for+Internship+Jul+%E2%80%93+Nov+2026+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=0096ff&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;IPsec+VPN+%7C+VLAN+%7C+OSPF+%7C+DMZ;ASP.NET+%7C+C%23+%7C+SQL+Server;Cisco+CCNA+Certified;%5BINTERNSHIP%5D+Jul+%E2%80%93+Nov+2026+%F0%9F%9F%A2" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vergio-stevencen)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vergiosc08@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VergioSC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230096ff.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vergio-stevencen)
+[![Gmail](https://img.shields.io/badge/Gmail-%230096ff.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vergiosc08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%230096ff.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VergioSC)
 
 </div>
 
 ---
 
-## 🌐 About Me
+## `> whoami`
 
 ```python
 vergio = {
@@ -30,78 +36,78 @@ vergio = {
 }
 ```
 
-I'm a Cloud Engineering student with a growing passion for **cybersecurity and network security**. I enjoy designing enterprise networks, building web applications, and picking up new tools along the way.
+Cloud Engineering student. I build secure networks, break things to fix them, and ship web apps. Currently learning the ropes of cloud security and enterprise infrastructure — one VPN tunnel at a time.
 
 ---
 
-## 🛠️ Tech Stack
+## `> ls skills/`
 
 <div align="center">
 
-**Languages**
+**// languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%230096ff?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%230096ff?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%230096ff?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230096ff?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230096ff?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%230096ff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%230096ff?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
+**// frameworks & tools**
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%230096ff?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%230096ff?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-%230096ff?style=for-the-badge&logo=cisco&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-%230096ff?style=for-the-badge&logoColor=white)
 
-**Networking & Security**
+**// network & security protocols**
 
-![VLANs](https://img.shields.io/badge/VLANs-0F6E56?style=flat-square)
-![OSPF](https://img.shields.io/badge/OSPF-0F6E56?style=flat-square)
-![IPsec VPN](https://img.shields.io/badge/IPsec%20VPN%20IKEv2-0F6E56?style=flat-square)
-![ACL](https://img.shields.io/badge/ACL-0F6E56?style=flat-square)
-![DMZ](https://img.shields.io/badge/DMZ-0F6E56?style=flat-square)
-![SIEM](https://img.shields.io/badge/SIEM-0F6E56?style=flat-square)
-![WLC](https://img.shields.io/badge/WLC-0F6E56?style=flat-square)
-![EtherChannel](https://img.shields.io/badge/EtherChannel-0F6E56?style=flat-square)
+![VLANs](https://img.shields.io/badge/VLANs-000000?style=flat-square&color=000000&labelColor=0096ff&label=)
+![OSPF](https://img.shields.io/badge/OSPF-000000?style=flat-square&color=000000&labelColor=0096ff&label=)
+![IPsec VPN IKEv2](https://img.shields.io/badge/IPsec%20VPN%20IKEv2-0096ff?style=flat-square&color=0096ff&logoColor=white)
+![ACL](https://img.shields.io/badge/ACL-0096ff?style=flat-square&color=0096ff&logoColor=white)
+![DMZ](https://img.shields.io/badge/DMZ-0096ff?style=flat-square&color=0096ff&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-0096ff?style=flat-square&color=0096ff&logoColor=white)
+![WLC](https://img.shields.io/badge/WLC-0096ff?style=flat-square&color=0096ff&logoColor=white)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-0096ff?style=flat-square&color=0096ff&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `> cat projects.log`
 
-### 🌐 IndoSlang — Indonesian Slang Learning Platform
-> ASP.NET Web Forms · C# · SQL Server
+### 🟢 IndoSlang — Indonesian Slang Learning Platform
+> `ASP.NET Web Forms` · `C#` · `SQL Server`
 
 - Role-based access: Visitor, Member, Buddy, Admin
 - Live session booking, community chat, admin dashboard
 - Hashed password auth + OTP verification
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/VergioSC/IndoSlang)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-%230096ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VergioSC/IndoSlang)
 
 ---
 
-### 🐍 Python University Management System
-> Python · Java Swing GUI
+### 🟢 Python University Management System
+> `Python` · `Java Swing GUI`
 
 - Role-based access control with grade tracking & eligibility checking
 - Automated email notifications built on OOP principles
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/VergioSC/Python-University-Management-System)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-%230096ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VergioSC/Python-University-Management-System)
 
 ---
 
-### 🔒 Network Security – Starcom Asia *(Academic)*
-> Cisco Packet Tracer
+### 🟢 Network Security – Starcom Asia `[academic]`
+> `Cisco Packet Tracer`
 
 - DMZ email server with SMTP auth & extended ACL
 - IPsec VPN tunnel: IKEv2 · AES-256-GCM · SHA-384
 - Proposed Honeypot + SIEM defence-in-depth strategy
 
-### 🏢 Multi-Site Enterprise Network – Alstom *(Academic)*
-> Cisco Packet Tracer
+### 🟢 Multi-Site Enterprise Network – Alstom `[academic]`
+> `Cisco Packet Tracer`
 
 - 4-site global network: KL, Australia, Singapore, India
 - InterVLAN routing, OSPF, DHCP, EtherChannel, WLC
@@ -109,45 +115,45 @@ I'm a Cloud Engineering student with a growing passion for **cybersecurity and n
 
 ---
 
-## 🏅 Certifications & Achievements
+## `> cat certs.txt`
 
-| Certification | Issuer | Status |
+| `[VERIFIED]` | Certification | Issuer |
 |---|---|---|
-| 🛡️ CCNA: Introduction to Networking | Cisco Networking Academy | ✅ Verified |
-| 🔐 Network Security | Cisco Networking Academy | ✅ Verified |
-| 📡 5G Pioneers Program | Ericsson Educate | ✅ Completed |
-| 🔍 CyberSmart Generation Workshop | FSEC-SS × Etiqa, APU | ✅ Nov 2025 |
-| 🤖 AI Tinkerers × Kiro: Agentic IDE Demo Day | AWS Cloud Club, APU | ✅ Mar 2026 |
-| ⚙️ Plug-and-Play AI with Chutes.ai | APU AIC | ✅ Mar 2026 |
+| ✅ | CCNA: Introduction to Networking | Cisco Networking Academy |
+| ✅ | Network Security | Cisco Networking Academy |
+| ✅ | 5G Pioneers Program | Ericsson Educate |
+| ✅ | CyberSmart Generation Workshop | FSEC-SS × Etiqa, APU |
+| ✅ | AI Tinkerers × Kiro: Agentic IDE Demo Day | AWS Cloud Club, APU |
+| ✅ | Plug-and-Play AI with Chutes.ai | APU AIC |
 
 ---
 
-## 💼 Experience
+## `> cat experience.log`
 
-**📚 Library Assistant** · APU Library · *2025 – Present*
+**`[2025–NOW]`** 📚 Library Assistant · APU Library
 > Front-desk support, discussion room bookings, Koha Library Management System
 
-**🎭 Event Coordinator** · Tales of Archipelagos, APU · *2025*
+**`[2025]`** 🎭 Event Coordinator · Tales of Archipelagos, APU
 > On-site operations, stage & floor management, real-time coordination
 
-**📸 Photographer** · AI Club (AIC), APU · *2024 – Present*
+**`[2024–NOW]`** 📸 Photographer · AI Club (AIC), APU
 > Event photography, photo editing, social media visual content
 
-**🏢 Event Crew** · AMCF Mega Career Fair (120+ companies) · *May 2026*
+**`[MAY 2026]`** 🏢 Event Crew · AMCF Mega Career Fair (120+ companies)
 > Content creation, marketing, photography, floor management
 
 ---
 
-## 🌏 Languages
+## `> echo $LANGUAGES`
 
-🇬🇧 English (Bilingual) · 🇮🇩 Indonesian (Native) · 🇲🇾 Malay (Conversational) · 🇨🇳 Mandarin (Basic)
+`EN` Bilingual · `ID` Native · `MY` Conversational · `ZH` Basic
 
 ---
 
 <div align="center">
 
-*📍 Bukit Jalil, KL · 📅 Open for internship: July – November 2026*
+`// 📍 Bukit Jalil, KL · [OPEN] Internship: Jul – Nov 2026`
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=4FC3F7&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0096ff&height=100&section=footer)
 
 </div>
