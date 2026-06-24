@@ -63,8 +63,8 @@ Cloud Engineering student. I build secure networks, break things to fix them, an
 
 **// network & security protocols**
 
-![VLANs](https://img.shields.io/badge/VLANs-000000?style=flat-square&color=000000&labelColor=0096ff&label=)
-![OSPF](https://img.shields.io/badge/OSPF-000000?style=flat-square&color=000000&labelColor=0096ff&label=)
+![VLANs](https://img.shields.io/badge/VLANs-0096ff?style=flat-square&color=0096ff&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-0096ff?style=flat-square&color=0096ff&logoColor=white)
 ![IPsec VPN IKEv2](https://img.shields.io/badge/IPsec%20VPN%20IKEv2-0096ff?style=flat-square&color=0096ff&logoColor=white)
 ![ACL](https://img.shields.io/badge/ACL-0096ff?style=flat-square&color=0096ff&logoColor=white)
 ![DMZ](https://img.shields.io/badge/DMZ-0096ff?style=flat-square&color=0096ff&logoColor=white)
