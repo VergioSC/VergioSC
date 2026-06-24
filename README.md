@@ -109,30 +109,6 @@ I'm a Cloud Engineering student with a growing passion for **cybersecurity and n
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VergioSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VergioSC&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VergioSC&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VergioSC/VergioSC/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VergioSC/VergioSC/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VergioSC/VergioSC/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🏅 Certifications & Achievements
 
 | Certification | Issuer | Status |
