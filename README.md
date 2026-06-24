@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Vergio 👋
+<img src="https://i.pinimg.com/originals/c1/34/c2/c134c246d293905c9ed09ad77c451226.gif" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+Student+%40+APU;Network+%26+Security+Enthusiast;Full-Stack+Web+Developer;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+Student+%40+APU;Network+%26+Security+Enthusiast;Full-Stack+Web+Developer;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -20,10 +20,10 @@
 vergio = {
     "name"      : "Vergio Stevencen",
     "degree"    : "BSc (Hons) IT – Cloud Engineering @ APU",
-    "location"  : "Bukit Jalil, Kuala Lumpur 🇲🇾",
+    "location"  : "Bukit Jalil, Kuala Lumpur, Malaysia",
     "languages" : ["English", "Indonesian", "Malay", "Mandarin (basic)"],
     "interests" : ["Cloud Security", "Networking", "Web Dev", "Photography"],
-    "available" : "Internship: July – November 2026 ✅",
+    "available" : "Internship: July – November 2026",
 }
 ```
 
@@ -35,7 +35,8 @@ I'm a Cloud Engineering student with a growing passion for **cybersecurity and n
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -44,14 +45,23 @@ I'm a Cloud Engineering student with a growing passion for **cybersecurity and n
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
+**Frameworks & Tools**
+
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=forensic&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
 
-### Networking & Security
-`VLANs` · `OSPF` · `IPsec VPN (IKEv2)` · `ACL` · `DMZ` · `SIEM` · `WLC` · `EtherChannel`
+**Networking & Security**
+
+![VLANs](https://img.shields.io/badge/VLANs-0F6E56?style=flat-square)
+![OSPF](https://img.shields.io/badge/OSPF-0F6E56?style=flat-square)
+![IPsec VPN](https://img.shields.io/badge/IPsec%20VPN%20IKEv2-0F6E56?style=flat-square)
+![ACL](https://img.shields.io/badge/ACL-0F6E56?style=flat-square)
+![DMZ](https://img.shields.io/badge/DMZ-0F6E56?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM-0F6E56?style=flat-square)
+![WLC](https://img.shields.io/badge/WLC-0F6E56?style=flat-square)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-0F6E56?style=flat-square)
 
 </div>
 
@@ -59,61 +69,63 @@ I'm a Cloud Engineering student with a growing passion for **cybersecurity and n
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌐 IndoSlang
-**Indonesian Gen Z Slang Learning Platform**
-
-ASP.NET Web Forms · C# · SQL Server
+### 🌐 IndoSlang — Indonesian Slang Learning Platform
+> ASP.NET Web Forms · C# · SQL Server
 
 - Role-based access: Visitor, Member, Buddy, Admin
 - Live session booking, community chat, admin dashboard
 - Hashed password auth + OTP verification
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/VergioSC/IndoSlang)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/VergioSC/IndoSlang)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🐍 Python University System
-**Course Management & Recovery System**
+### 🐍 Python University Management System
+> Python · Java Swing GUI
 
-Python · Java Swing GUI
+- Role-based access control with grade tracking & eligibility checking
+- Automated email notifications built on OOP principles
 
-- Role-based access control
-- Grade tracking & eligibility checking
-- Automated email notifications (OOP-based)
+[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/VergioSC/Python-University-Management-System)
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/VergioSC/Python-University-Management-System)
+---
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🔒 Network Security – Starcom Asia
-**Enterprise Security Lab** · Cisco Packet Tracer
+### 🔒 Network Security – Starcom Asia *(Academic)*
+> Cisco Packet Tracer
 
 - DMZ email server with SMTP auth & extended ACL
 - IPsec VPN tunnel: IKEv2 · AES-256-GCM · SHA-384
 - Proposed Honeypot + SIEM defence-in-depth strategy
 
-</td>
-<td width="50%" valign="top">
+### 🏢 Multi-Site Enterprise Network – Alstom *(Academic)*
+> Cisco Packet Tracer
 
-### 🏢 Multi-Site Enterprise Network – Alstom
-**4-Site Global Network Design** · Cisco Packet Tracer
-
-- InterVLAN routing, OSPF, DHCP, EtherChannel
-- Wireless LAN Controller (WLC) centralised mgmt
+- 4-site global network: KL, Australia, Singapore, India
+- InterVLAN routing, OSPF, DHCP, EtherChannel, WLC
 - Singapore Server Farm: DNS, FTP, Web + L2 security
 
-</td>
-  </tr>
-</table>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VergioSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VergioSC&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VergioSC&theme=tokyonight&hide_border=true" height="160"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VergioSC/VergioSC/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VergioSC/VergioSC/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VergioSC/VergioSC/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -157,6 +169,8 @@ Python · Java Swing GUI
 
 <img src="https://komarev.com/ghpvc/?username=VergioSC&style=flat-square&color=4FC3F7" alt="Profile views"/>
 
-*📍 Bukit Jalil, KL · 📅 Open for internship July – November 2026*
+*📍 Bukit Jalil, KL · 📅 Open for internship: July – November 2026*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=4FC3F7&height=100&section=footer)
 
 </div>
