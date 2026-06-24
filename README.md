@@ -146,8 +146,6 @@ I'm a Cloud Engineering student with a growing passion for **cybersecurity and n
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VergioSC&style=flat-square&color=4FC3F7" alt="Profile views"/>
-
 *📍 Bukit Jalil, KL · 📅 Open for internship: July – November 2026*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=4FC3F7&height=100&section=footer)
