@@ -3,15 +3,9 @@
 <img src="https://i.pinimg.com/originals/ae/0a/a1/ae0aa14707e1b4bb35fe11b8f00a9956.gif" width="60%" alt="banner"/>
 
 ```
-██╗   ██╗███████╗██████╗  ██████╗ ██╗ ██████╗
-██║   ██║██╔════╝██╔══██╗██╔════╝ ██║██╔═══██╗
-██║   ██║█████╗  ██████╔╝██║  ███╗██║██║   ██║
-╚██╗ ██╔╝██╔══╝  ██╔══██╗██║   ██║██║██║   ██║
- ╚████╔╝ ███████╗██║  ██║╚██████╔╝██║╚██████╔╝
-  ╚═══╝  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=0096ff&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;IPsec+VPN+%7C+VLAN+%7C+OSPF+%7C+DMZ;ASP.NET+%7C+C%23+%7C+SQL+Server;Cisco+CCNA+Certified;%5BINTERNSHIP%5D+Jul+%E2%80%93+Nov+2026+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=0096ff&center=true&vCenter=true&width=600&lines=Wazzzaa" alt="Typing SVG" />
 
 <br/>
 
@@ -146,7 +140,7 @@ Cloud Engineering student. I build secure networks, break things to fix them, an
 
 ## `> echo $LANGUAGES`
 
-`EN` Bilingual · `ID` Native · `MY` Conversational · `ZH` Basic
+`EN` Bilingual · `ID` Native · `MY` Conversational
 
 ---
 
@@ -156,9 +150,6 @@ Cloud Engineering student. I build secure networks, break things to fix them, an
 ---
 
 <div align="center">
-
-`// 📍 Bukit Jalil, KL · [OPEN] Internship: Jul – Nov 2026`
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0096ff&height=100&section=footer)
 
 </div>
