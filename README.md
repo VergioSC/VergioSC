@@ -147,6 +147,4 @@ Cloud Engineering student. I build secure networks, break things to fix them, an
 ---
 
 <div align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0096ff&height=100&section=footer)
-
 </div>
