@@ -20,14 +20,13 @@
 vergio = {
     "name"      : "Vergio Stevencen",
     "degree"    : "BSc (Hons) IT – Cloud Engineering @ APU",
-    "location"  : "Bukit Jalil, Kuala Lumpur, Malaysia",
+    "location"  : "Kuala Lumpur, Malaysia",
     "languages" : ["English", "Indonesian", "Malay", "Mandarin (basic)"],
-    "interests" : ["Cloud Security", "Networking", "Web Dev", "Photography"],
-    "available" : "Internship: July – November 2026",
+    "interests" : ["Cloud Security", "Networking", "AI", "Web Dev", "Photography"],
 }
 ```
 
-Cloud Engineering student. I build secure networks, break things to fix them, and ship web apps. Currently learning the ropes of cloud security and enterprise infrastructure — one VPN tunnel at a time.
+Cloud Engineering student. I build secure networks, break things to fix them, and ship web apps. Currently learning the ropes of cloud security and AI.
 
 ---
 
